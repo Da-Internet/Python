@@ -1,47 +1,67 @@
 
 import pygame
-
-from  random import randint
+from random import randint
 
 pygame.init()
 
-#Inicializamos la ventana del Juego
 ventana = pygame.display.set_mode((640,480))
-pygame.display.set_caption("Pin Ball")
-
-#Creamos el objeto Pelota
+pygame.display.set_caption("Ejemplo 4")
 ball = pygame.image.load("img/Pelota.png")
-ballrect = ball.get_rect()
-speed = [4,4]
-ballrect.move_ip(0,0)
 
-#bucle principal del juego
+ballrect = ball.get_rect()
+
+# La velocidad se calcular con un valor pseudialeatorio entre 3,6
+speed = [randint(6,6),randint(6,6)]
+
+ballrect.move_ip(0,0)
+bate = pygame.image.load("img/Bat.png")
+
+baterect = bate.get_rect()
+baterect.move_ip(240,450)
+
+# Esta es la fuente que usaremos para el texto que aparecerá en pantalla (tamaño 36)
+fuente = pygame.font.Font(None, 36)
+
+# Bucle principal
 jugando = True
 while jugando:
-    #Comprobamos los eventos
 
-    #comprobamos si se ha pulsado el boton de cierre de ventana
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
             jugando = False
+    keys = pygame.key.get_pressed()
 
-    #muevo la pelota
+    if keys[pygame.K_LEFT]:
+        baterect = baterect.move(-6,0)
+
+    if keys[pygame.K_RIGHT]:
+        baterect = baterect.move(6,0)
+
+    if baterect.colliderect(ballrect):
+        speed[1] = -speed[1]
     ballrect = ballrect.move(speed)
 
-    #compruebo su la pelota toca el limite de la ventana
     if ballrect.left < 0 or ballrect.right > ventana.get_width():
         speed[0] = -speed[0]
-    if ballrect.top < 0 or ballrect.bottom > ventana.get_height():
+
+    if ballrect.top < 0:
         speed[1] = -speed[1]
-    #Se pinta la venta con un color
 
-    #Esto borra los posibles elementos anteriores
-    ventana.fill((255,255,255))
-    ventana.blit(ball,ballrect)
+    # Si la pelota toca el border inferior, has perdido ("Game Over")
+    if ballrect.bottom > ventana.get_height():
+        texto = fuente.render("Game Over", True, (125,125,125))
+        texto_rect = texto.get_rect()
+        texto_x = ventana.get_width() / 2 - texto_rect.width / 2
+        texto_y = ventana.get_height() / 2 - texto_rect.height / 2
+        ventana.blit(texto, [texto_x, texto_y])
 
-    #Todos los elementos se vuelven a dibujar
+    else:
+        ventana.fill((252, 243, 207))
+        ventana.blit(ball, ballrect)
+        # Dibujo el bate
+        ventana.blit(bate, baterect)
+
     pygame.display.flip()
-
-    #Controlamos la Frecuencia de Refresco(FPS)
     pygame.time.Clock().tick(60)
+
 pygame.quit()
