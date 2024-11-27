@@ -11,10 +11,11 @@ ball = pygame.image.load("img/Pelota.png")
 ballrect = ball.get_rect()
 
 # La velocidad se calcular con un valor pseudialeatorio entre 3,6
-speed = [randint(6,6),randint(6,6)]
+speed = [randint(3,10),randint(3,10)]
 
 ballrect.move_ip(0,0)
 bate = pygame.image.load("img/Bat.png")
+bate = pygame.transform.scale(bate, size=(200,100))
 
 baterect = bate.get_rect()
 baterect.move_ip(240,450)
@@ -32,10 +33,10 @@ while jugando:
     keys = pygame.key.get_pressed()
 
     if keys[pygame.K_LEFT]:
-        baterect = baterect.move(-6,0)
+        baterect = baterect.move(-10,0)
 
     if keys[pygame.K_RIGHT]:
-        baterect = baterect.move(6,0)
+        baterect = baterect.move(10,0)
 
     if baterect.colliderect(ballrect):
         speed[1] = -speed[1]
