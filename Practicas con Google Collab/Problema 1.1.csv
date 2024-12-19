@@ -1,0 +1,101 @@
+ID del Estudiante,Nombre,Edad,Sexo,Carrera,Promedio de Calificaciones,Materias Aprobadas,Materias Reprobadas,Asistencias a Clase,Participacion en Extracurriculares
+1,Estudiante 1,18.0,Otro,Mantenimiento,0.0,0.0,0.0,94.0,No
+2,Estudiante 2,23.0,Otro,Mecanica,7.0,4.0,0.0,0.0,Si
+3,Estudiante 3,16.0,Mujer,No Career,0.0,3.0,7.0,73.0,No Extras
+4,Estudiante 4,24.0,Mujer,No Career,0.0,6.0,4.0,80.0,No Extras
+5,No Name,No Age,No Gender,Mantenimiento,9.0,8.0,2.0,63.0,Si
+6,No Name,No Age,No Gender,Contaduria,9.0,10.0,0.0,61.0,No
+7,No Name,No Age,No Gender,No Career,8.0,5.0,5.0,88.0,No Extras
+8,No Name,No Age,No Gender,No Career,0.0,0.0,0.0,0.0,No Extras
+9,Estudiante 9,19.0,Otro,Quimica,5.0,2.0,8.0,50.0,Si
+10,Estudiante 10,23.0,Otro,Mecanica,9.0,1.0,9.0,78.0,No
+11,Estudiante 11,16.0,Hombre,Mantenimiento,5.0,8.0,2.0,96.0,No
+12,Estudiante 12,24.0,Mujer,Mantenimiento,10.0,5.0,5.0,70.0,No
+13,Estudiante 13,25.0,Mujer,Idiomas,7.0,7.0,3.0,98.0,No
+14,Estudiante 14,23.0,Otro,Mantenimiento,5.0,8.0,2.0,89.0,No
+15,Estudiante 15,20.0,Mujer,Idiomas,5.0,9.0,1.0,74.0,No
+16,Estudiante 16,15.0,Mujer,Idiomas,10.0,6.0,4.0,71.0,No
+17,Estudiante 17,13.0,Hombre,Contaduria,10.0,1.0,9.0,97.0,Si
+18,Estudiante 18,16.0,Mujer,Idiomas,6.0,1.0,9.0,78.0,Si
+19,Estudiante 19,21.0,Mujer,Mecanica,10.0,9.0,1.0,64.0,No
+20,Estudiante 20,14.0,Mujer,Contaduria,6.0,6.0,4.0,73.0,No
+21,Estudiante 21,19.0,Mujer,Mantenimiento,10.0,4.0,6.0,95.0,Si
+22,Estudiante 22,23.0,Mujer,Tecnologias de la Informacion,7.0,5.0,5.0,56.0,No
+23,Estudiante 23,15.0,Mujer,Mantenimiento,6.0,6.0,4.0,93.0,Si
+24,Estudiante 24,20.0,Mujer,Quimica,10.0,7.0,3.0,67.0,No
+25,Estudiante 25,17.0,Hombre,Quimica,8.0,5.0,5.0,57.0,Si
+26,Estudiante 26,14.0,Hombre,Tecnologias de la Informacion,5.0,7.0,3.0,71.0,No
+27,Estudiante 27,17.0,Otro,Idiomas,10.0,4.0,6.0,98.0,No
+28,Estudiante 28,19.0,Hombre,Mantenimiento,7.0,4.0,6.0,61.0,Si
+29,Estudiante 29,19.0,Otro,Mantenimiento,10.0,3.0,7.0,70.0,Si
+30,Estudiante 30,14.0,Mujer,Idiomas,6.0,1.0,9.0,62.0,No
+31,Estudiante 31,18.0,Hombre,Idiomas,5.0,3.0,7.0,86.0,No
+32,Estudiante 32,16.0,Mujer,Mecanica,5.0,1.0,9.0,64.0,Si
+33,Estudiante 33,19.0,Otro,Tecnologias de la Informacion,8.0,2.0,8.0,55.0,No
+34,Estudiante 34,25.0,Otro,Mecanica,6.0,1.0,9.0,88.0,No
+35,Estudiante 35,24.0,Hombre,Idiomas,9.0,1.0,9.0,100.0,No
+36,Estudiante 36,22.0,Otro,Mantenimiento,6.0,7.0,3.0,91.0,Si
+37,Estudiante 37,21.0,Hombre,Quimica,5.0,2.0,8.0,55.0,No
+38,Estudiante 38,15.0,Hombre,Contaduria,9.0,9.0,1.0,70.0,Si
+39,Estudiante 39,22.0,Hombre,Quimica,6.0,2.0,8.0,93.0,Si
+40,Estudiante 40,22.0,Otro,Idiomas,7.0,4.0,6.0,56.0,Si
+41,Estudiante 41,20.0,Mujer,Idiomas,9.0,3.0,7.0,71.0,No
+42,Estudiante 42,13.0,Mujer,Mantenimiento,6.0,2.0,8.0,76.0,Si
+43,Estudiante 43,17.0,Mujer,Contaduria,5.0,9.0,1.0,86.0,No
+44,Estudiante 44,16.0,Hombre,Mantenimiento,10.0,8.0,2.0,94.0,No
+45,Estudiante 45,20.0,Hombre,Contaduria,5.0,8.0,2.0,55.0,Si
+46,Estudiante 46,15.0,Otro,Quimica,8.0,9.0,1.0,85.0,No
+47,Estudiante 47,18.0,Mujer,Tecnologias de la Informacion,6.0,6.0,4.0,71.0,No
+48,Estudiante 48,25.0,Otro,Idiomas,6.0,2.0,8.0,52.0,No
+49,Estudiante 49,13.0,Hombre,Idiomas,9.0,2.0,8.0,62.0,No
+50,Estudiante 50,13.0,Mujer,Mantenimiento,9.0,8.0,2.0,52.0,Si
+51,Estudiante 51,21.0,Hombre,Mantenimiento,8.0,5.0,5.0,82.0,Si
+52,Estudiante 52,13.0,Mujer,Mecanica,6.0,10.0,0.0,69.0,Si
+53,Estudiante 53,21.0,Mujer,Tecnologias de la Informacion,6.0,5.0,5.0,51.0,Si
+54,Estudiante 54,19.0,Otro,Idiomas,10.0,2.0,8.0,97.0,No
+55,Estudiante 55,24.0,Otro,Idiomas,8.0,7.0,3.0,88.0,No
+56,Estudiante 56,22.0,Mujer,Mecanica,10.0,2.0,8.0,64.0,No
+57,Estudiante 57,15.0,Otro,Idiomas,6.0,6.0,4.0,79.0,No
+58,Estudiante 58,19.0,Otro,Mantenimiento,9.0,2.0,8.0,76.0,No
+59,Estudiante 59,22.0,Hombre,Tecnologias de la Informacion,10.0,7.0,3.0,58.0,No
+60,Estudiante 60,19.0,Otro,Idiomas,6.0,7.0,3.0,80.0,No
+61,Estudiante 61,22.0,Otro,Mantenimiento,10.0,1.0,9.0,82.0,No
+62,Estudiante 62,18.0,Hombre,Quimica,10.0,9.0,1.0,62.0,No
+63,Estudiante 63,25.0,Mujer,Mecanica,7.0,3.0,7.0,79.0,Si
+64,Estudiante 64,17.0,Hombre,Contaduria,7.0,10.0,0.0,71.0,Si
+65,Estudiante 65,13.0,Mujer,Mantenimiento,9.0,4.0,6.0,66.0,Si
+66,Estudiante 66,14.0,Hombre,Idiomas,10.0,5.0,5.0,88.0,Si
+67,Estudiante 67,16.0,Hombre,Mecanica,10.0,4.0,6.0,89.0,Si
+68,Estudiante 68,15.0,Mujer,Mantenimiento,5.0,7.0,3.0,54.0,No
+69,Estudiante 69,20.0,Mujer,Idiomas,10.0,9.0,1.0,51.0,Si
+70,Estudiante 70,18.0,Otro,Mecanica,10.0,10.0,0.0,54.0,Si
+71,Estudiante 71,14.0,Hombre,Contaduria,6.0,2.0,8.0,56.0,No
+72,Estudiante 72,22.0,Mujer,Tecnologias de la Informacion,6.0,4.0,6.0,52.0,Si
+73,Estudiante 73,19.0,Otro,Contaduria,8.0,6.0,4.0,70.0,Si
+74,Estudiante 74,17.0,Hombre,Idiomas,7.0,7.0,3.0,75.0,Si
+75,Estudiante 75,23.0,Mujer,Mecanica,8.0,3.0,7.0,74.0,Si
+76,Estudiante 76,13.0,Hombre,Mecanica,9.0,3.0,7.0,71.0,No
+77,Estudiante 77,25.0,Hombre,Mantenimiento,10.0,10.0,0.0,57.0,Si
+78,Estudiante 78,22.0,Otro,Tecnologias de la Informacion,8.0,4.0,6.0,75.0,Si
+79,Estudiante 79,21.0,Mujer,Mantenimiento,6.0,2.0,8.0,53.0,No
+80,Estudiante 80,13.0,Mujer,Contaduria,7.0,4.0,6.0,60.0,No
+81,Estudiante 81,17.0,Hombre,Mantenimiento,10.0,10.0,0.0,71.0,Si
+82,Estudiante 82,24.0,Hombre,Mantenimiento,8.0,10.0,0.0,65.0,No
+83,Estudiante 83,20.0,Hombre,Quimica,9.0,7.0,3.0,53.0,Si
+84,Estudiante 84,15.0,Mujer,Mecanica,7.0,10.0,0.0,57.0,Si
+85,Estudiante 85,13.0,Otro,Mantenimiento,6.0,3.0,7.0,83.0,Si
+86,Estudiante 86,19.0,Hombre,Tecnologias de la Informacion,7.0,3.0,7.0,82.0,Si
+87,Estudiante 87,13.0,Hombre,Contaduria,7.0,2.0,8.0,84.0,No
+88,Estudiante 88,14.0,Hombre,Idiomas,5.0,5.0,5.0,74.0,Si
+89,Estudiante 89,16.0,Otro,Mantenimiento,8.0,3.0,7.0,63.0,No
+90,Estudiante 90,18.0,Mujer,Mantenimiento,7.0,3.0,7.0,59.0,Si
+91,Estudiante 91,20.0,Hombre,Contaduria,9.0,10.0,0.0,62.0,No
+92,Estudiante 92,23.0,Hombre,Mantenimiento,6.0,5.0,5.0,74.0,No
+93,Estudiante 93,20.0,Hombre,Idiomas,10.0,9.0,1.0,74.0,Si
+94,Estudiante 94,17.0,Mujer,Quimica,8.0,2.0,8.0,67.0,No
+95,Estudiante 95,24.0,Otro,Mantenimiento,7.0,6.0,4.0,57.0,No
+96,Estudiante 96,15.0,Otro,Mantenimiento,8.0,8.0,2.0,93.0,No
+97,Estudiante 97,17.0,Hombre,Quimica,6.0,2.0,8.0,84.0,Si
+98,Estudiante 98,16.0,Hombre,Mantenimiento,8.0,8.0,2.0,84.0,Si
+99,Estudiante 99,25.0,Mujer,Contaduria,10.0,5.0,5.0,100.0,No
+100,Estudiante 100,21.0,Mujer,Contaduria,9.0,3.0,7.0,93.0,No

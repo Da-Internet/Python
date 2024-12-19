@@ -1,0 +1,1001 @@
+ID del Sensor,Tipo Sensor,Valor Leido,Ubicacion,TimeStamp
+1,No Type,62.0,Europa,2024-11-18
+2,No Type,90.0,Europa,2024-05-27
+3,No Type,29.0,Europa,2024-09-17
+4,Humedad,0.0,Europa,2024-11-04
+5,Temperatura,0.0,Oceanía,2024-07-29
+6,Humedad,0.0,Europa,2024-01-13
+7,Presencia,29.0,No Location,2024-10-20
+8,Movimiento,53.0,No Location,2024-03-21
+9,Temperatura,62.0,No Location,2024-11-24
+10,No Type,0.0,África,2024-06-27
+11,No Type,0.0,Europa,2024-01-23
+12,No Type,0.0,Sudamerica,2024-12-13
+13,Humedad,0.0,No Location,2024-05-02
+14,Movimiento,0.0,No Location,2024-02-14
+15,Humedad,0.0,No Location,2024-04-12
+16,No Type,0.0,No Location,2024-10-08
+17,No Type,0.0,No Location,2024-07-03
+18,No Type,0.0,No Location,2024-06-12
+19,Movimiento,79.0,Oceanía,2024-05-25
+20,Presencia,79.0,Sudamerica,2024-06-22
+21,Presencia,44.0,Asia,2024-06-14
+22,Humedad,32.0,África,2024-12-12
+23,Luz ,90.0,Asia,2024-02-29
+24,Temperatura,61.0,Europa,2024-01-05
+25,Movimiento,99.0,Oceanía,2024-01-29
+26,Presencia,41.0,Sudamerica,2024-07-21
+27,Temperatura,55.0,Europa,2024-11-17
+28,Humedad,32.0,África,2024-03-06
+29,Humedad,15.0,Asia,2024-01-06
+30,Movimiento,40.0,África,2024-01-20
+31,Temperatura,8.0,Sudamerica,2024-11-08
+32,Humedad,37.0,África,2024-10-18
+33,Humedad,58.0,Europa,2024-10-24
+34,Presencia,75.0,África,2024-02-17
+35,Movimiento,86.0,Europa,2024-07-29
+36,Temperatura,87.0,Asia,2024-08-13
+37,Movimiento,40.0,África,2024-04-18
+38,Presencia,6.0,Asia,2024-09-24
+39,Movimiento,4.0,Oceanía,2024-04-08
+40,Luz ,80.0,Sudamerica,2024-01-04
+41,Luz ,99.0,Oceanía,2024-02-04
+42,Movimiento,83.0,Oceanía,2024-08-17
+43,Movimiento,9.0,Europa,2024-05-31
+44,Movimiento,13.0,Asia,2024-03-09
+45,Movimiento,31.0,África,2024-10-12
+46,Presencia,69.0,Sudamerica,2024-10-14
+47,Humedad,75.0,África,2024-11-04
+48,Movimiento,25.0,África,2024-08-12
+49,Luz ,85.0,Sudamerica,2024-08-28
+50,Temperatura,85.0,Norteamerica,2024-03-19
+51,Presencia,74.0,Europa,2024-08-25
+52,Temperatura,83.0,África,2024-01-02
+53,Luz ,100.0,Norteamerica,2024-11-29
+54,Temperatura,52.0,Asia,2024-11-01
+55,Temperatura,89.0,África,2024-06-12
+56,Presencia,85.0,Norteamerica,2024-12-31
+57,Movimiento,42.0,Oceanía,2024-05-03
+58,Presencia,92.0,Norteamerica,2024-05-15
+59,Luz ,69.0,Europa,2024-10-08
+60,Presencia,98.0,Europa,2024-11-07
+61,Presencia,27.0,Oceanía,2024-12-20
+62,Temperatura,5.0,Norteamerica,2024-11-16
+63,Humedad,34.0,Oceanía,2024-03-20
+64,Humedad,67.0,Oceanía,2024-04-11
+65,Humedad,99.0,Asia,2024-12-11
+66,Luz ,78.0,Asia,2024-11-21
+67,Temperatura,19.0,Europa,2024-08-01
+68,Temperatura,61.0,Europa,2024-10-18
+69,Temperatura,78.0,Europa,2024-03-03
+70,Humedad,14.0,Norteamerica,2024-03-08
+71,Humedad,33.0,Europa,2024-11-15
+72,Temperatura,54.0,Norteamerica,2024-01-24
+73,Presencia,69.0,Norteamerica,2024-11-27
+74,Temperatura,19.0,Asia,2024-12-28
+75,Luz ,25.0,África,2024-11-25
+76,Humedad,35.0,África,2024-08-10
+77,Humedad,2.0,Europa,2024-10-09
+78,Humedad,48.0,Norteamerica,2024-03-27
+79,Humedad,44.0,África,2024-01-17
+80,Luz ,84.0,Oceanía,2024-03-04
+81,Temperatura,52.0,África,2024-02-02
+82,Presencia,6.0,Sudamerica,2024-10-21
+83,Movimiento,27.0,Oceanía,2024-11-11
+84,Luz ,8.0,África,2024-01-17
+85,Humedad,35.0,Sudamerica,2024-07-19
+86,Temperatura,60.0,Europa,2024-05-12
+87,Movimiento,85.0,Europa,2024-12-21
+88,Presencia,39.0,África,2024-04-10
+89,Humedad,98.0,Asia,2024-07-10
+90,Humedad,91.0,Sudamerica,2024-10-23
+91,Movimiento,38.0,Norteamerica,2024-11-16
+92,Presencia,61.0,Europa,2024-09-03
+93,Humedad,60.0,Norteamerica,2024-01-21
+94,Humedad,91.0,Sudamerica,2024-09-13
+95,Presencia,77.0,Norteamerica,2024-06-29
+96,Presencia,51.0,Sudamerica,2024-08-09
+97,Movimiento,84.0,Oceanía,2024-10-12
+98,Humedad,23.0,Oceanía,2024-08-29
+99,Temperatura,14.0,Europa,2024-08-31
+100,Luz ,50.0,Asia,2024-10-31
+101,Humedad,43.0,Sudamerica,2024-06-19
+102,Movimiento,98.0,Sudamerica,2024-01-12
+103,Luz ,3.0,Asia,2024-01-23
+104,Temperatura,28.0,Asia,2024-06-20
+105,Humedad,82.0,Sudamerica,2024-11-30
+106,Movimiento,51.0,Oceanía,2024-02-27
+107,Movimiento,56.0,Oceanía,2024-12-16
+108,Humedad,98.0,Asia,2024-10-03
+109,Movimiento,20.0,Norteamerica,2024-12-25
+110,Movimiento,75.0,Oceanía,2024-10-18
+111,Temperatura,81.0,Norteamerica,2024-04-22
+112,Presencia,59.0,Europa,2024-11-02
+113,Luz ,67.0,Asia,2024-05-22
+114,Movimiento,13.0,Norteamerica,2024-05-01
+115,Presencia,1.0,Asia,2024-02-24
+116,Movimiento,40.0,África,2024-07-06
+117,Presencia,31.0,Sudamerica,2024-11-16
+118,Movimiento,41.0,Asia,2024-04-23
+119,Temperatura,100.0,Sudamerica,2024-04-28
+120,Movimiento,61.0,Asia,2024-01-26
+121,Movimiento,16.0,Europa,2024-02-08
+122,Temperatura,7.0,África,2024-09-03
+123,Movimiento,69.0,Asia,2024-05-03
+124,Humedad,45.0,Oceanía,2024-10-12
+125,Luz ,34.0,África,2024-11-02
+126,Movimiento,63.0,África,2024-05-13
+127,Temperatura,63.0,Sudamerica,2024-01-07
+128,Temperatura,57.0,Norteamerica,2024-10-29
+129,Movimiento,23.0,Oceanía,2024-06-02
+130,Luz ,21.0,Sudamerica,2024-07-12
+131,Humedad,11.0,Europa,2024-11-01
+132,Temperatura,22.0,África,2024-05-24
+133,Temperatura,22.0,Asia,2024-12-28
+134,Humedad,98.0,Europa,2024-02-06
+135,Humedad,49.0,Europa,2024-03-04
+136,Movimiento,58.0,Europa,2024-12-14
+137,Presencia,26.0,Norteamerica,2024-08-14
+138,Luz ,22.0,África,2024-12-31
+139,Temperatura,75.0,Sudamerica,2024-08-06
+140,Presencia,91.0,Sudamerica,2024-07-03
+141,Movimiento,31.0,Sudamerica,2024-06-10
+142,Movimiento,22.0,Sudamerica,2024-07-01
+143,Luz ,54.0,África,2024-02-17
+144,Movimiento,71.0,Asia,2024-11-16
+145,Humedad,86.0,Norteamerica,2024-04-13
+146,Humedad,36.0,África,2024-12-14
+147,Presencia,95.0,Asia,2024-03-04
+148,Movimiento,16.0,Sudamerica,2024-08-15
+149,Presencia,95.0,Norteamerica,2024-04-08
+150,Luz ,61.0,África,2024-02-28
+151,Humedad,62.0,Asia,2024-05-07
+152,Luz ,22.0,Oceanía,2024-11-25
+153,Presencia,52.0,Europa,2024-10-13
+154,Humedad,99.0,Oceanía,2024-02-28
+155,Humedad,30.0,Norteamerica,2024-10-24
+156,Luz ,29.0,Norteamerica,2024-11-27
+157,Luz ,14.0,Oceanía,2024-02-05
+158,Temperatura,79.0,Oceanía,2024-06-24
+159,Presencia,50.0,Asia,2024-10-23
+160,Humedad,16.0,Oceanía,2024-09-22
+161,Presencia,27.0,Norteamerica,2024-05-09
+162,Luz ,37.0,Norteamerica,2024-03-01
+163,Luz ,73.0,África,2024-09-26
+164,Temperatura,21.0,África,2024-03-21
+165,Temperatura,27.0,Oceanía,2024-09-01
+166,Presencia,21.0,Europa,2024-06-30
+167,Luz ,54.0,Sudamerica,2024-07-22
+168,Movimiento,8.0,Europa,2024-12-15
+169,Humedad,73.0,Norteamerica,2024-03-09
+170,Movimiento,95.0,Sudamerica,2024-03-03
+171,Humedad,83.0,Norteamerica,2024-02-02
+172,Humedad,83.0,Asia,2024-05-03
+173,Movimiento,58.0,África,2024-04-27
+174,Temperatura,14.0,Europa,2024-03-03
+175,Temperatura,98.0,Europa,2024-04-30
+176,Temperatura,12.0,Oceanía,2024-12-17
+177,Luz ,39.0,Sudamerica,2024-01-25
+178,Luz ,68.0,Norteamerica,2024-11-12
+179,Movimiento,82.0,Europa,2024-12-30
+180,Presencia,4.0,Norteamerica,2024-02-25
+181,Movimiento,84.0,Asia,2024-10-29
+182,Humedad,48.0,África,2024-07-29
+183,Humedad,23.0,Asia,2024-10-16
+184,Humedad,14.0,Norteamerica,2024-01-21
+185,Luz ,16.0,Sudamerica,2024-10-27
+186,Presencia,96.0,África,2024-11-11
+187,Movimiento,50.0,Europa,2024-11-27
+188,Luz ,75.0,Sudamerica,2024-04-13
+189,Temperatura,78.0,Europa,2024-09-16
+190,Presencia,100.0,Norteamerica,2024-10-25
+191,Humedad,89.0,Sudamerica,2024-09-24
+192,Temperatura,6.0,Oceanía,2024-03-18
+193,Presencia,82.0,Sudamerica,2024-09-25
+194,Movimiento,95.0,Sudamerica,2024-08-26
+195,Humedad,71.0,Norteamerica,2024-08-29
+196,Temperatura,15.0,Oceanía,2024-08-15
+197,Temperatura,84.0,África,2024-09-20
+198,Luz ,13.0,Norteamerica,2024-09-26
+199,Presencia,56.0,África,2024-12-03
+200,Luz ,26.0,Sudamerica,2024-10-15
+201,Movimiento,43.0,África,2024-02-29
+202,Presencia,78.0,Europa,2024-12-10
+203,Movimiento,96.0,Norteamerica,2024-10-12
+204,Temperatura,21.0,Asia,2024-12-25
+205,Presencia,29.0,Norteamerica,2024-06-17
+206,Presencia,80.0,Asia,2024-06-14
+207,Humedad,86.0,Europa,2024-11-21
+208,Luz ,17.0,África,2024-12-13
+209,Luz ,54.0,Norteamerica,2024-05-25
+210,Luz ,79.0,Asia,2024-01-07
+211,Movimiento,76.0,Europa,2024-11-22
+212,Luz ,38.0,África,2024-03-26
+213,Temperatura,24.0,Oceanía,2024-12-21
+214,Movimiento,100.0,Oceanía,2024-12-08
+215,Humedad,96.0,Europa,2024-12-21
+216,Temperatura,12.0,Asia,2024-08-22
+217,Humedad,23.0,Europa,2024-02-18
+218,Presencia,69.0,Sudamerica,2024-05-28
+219,Presencia,41.0,Oceanía,2024-08-22
+220,Movimiento,100.0,Sudamerica,2024-10-17
+221,Luz ,43.0,Oceanía,2024-02-29
+222,Movimiento,30.0,Asia,2024-09-07
+223,Temperatura,25.0,Sudamerica,2024-06-17
+224,Temperatura,30.0,Norteamerica,2024-12-23
+225,Temperatura,5.0,Norteamerica,2024-07-08
+226,Luz ,20.0,Europa,2024-12-03
+227,Humedad,2.0,Sudamerica,2024-10-29
+228,Humedad,81.0,Europa,2024-01-09
+229,Luz ,47.0,Norteamerica,2024-04-11
+230,Temperatura,17.0,Europa,2024-05-27
+231,Temperatura,64.0,África,2024-06-12
+232,Humedad,100.0,Oceanía,2024-02-15
+233,Luz ,32.0,Norteamerica,2024-12-23
+234,Presencia,97.0,Asia,2024-11-01
+235,Humedad,96.0,Norteamerica,2024-01-04
+236,Movimiento,65.0,Norteamerica,2024-08-26
+237,Movimiento,60.0,Oceanía,2024-07-25
+238,Humedad,17.0,Sudamerica,2024-09-20
+239,Temperatura,49.0,Oceanía,2024-09-28
+240,Humedad,62.0,Europa,2024-11-09
+241,Movimiento,93.0,Europa,2024-08-15
+242,Luz ,29.0,Asia,2024-08-07
+243,Humedad,78.0,África,2024-01-18
+244,Movimiento,24.0,Europa,2024-04-22
+245,Movimiento,90.0,Norteamerica,2024-07-19
+246,Presencia,99.0,Oceanía,2024-09-18
+247,Presencia,15.0,Europa,2024-03-25
+248,Presencia,62.0,Norteamerica,2024-11-20
+249,Temperatura,77.0,África,2024-01-01
+250,Humedad,30.0,Norteamerica,2024-01-11
+251,Humedad,37.0,Norteamerica,2024-02-10
+252,Humedad,25.0,Europa,2024-02-11
+253,Presencia,94.0,Asia,2024-11-17
+254,Luz ,26.0,África,2024-03-09
+255,Movimiento,54.0,Europa,2024-01-23
+256,Luz ,23.0,Europa,2024-12-19
+257,Temperatura,76.0,Norteamerica,2024-07-27
+258,Humedad,100.0,Asia,2024-08-03
+259,Humedad,90.0,Asia,2024-08-06
+260,Movimiento,79.0,Oceanía,2024-02-28
+261,Temperatura,88.0,Norteamerica,2024-05-24
+262,Humedad,36.0,Sudamerica,2024-06-23
+263,Humedad,48.0,Norteamerica,2024-11-28
+264,Temperatura,50.0,Asia,2024-04-26
+265,Presencia,83.0,Oceanía,2024-05-02
+266,Presencia,74.0,Sudamerica,2024-12-21
+267,Movimiento,29.0,Asia,2024-03-04
+268,Movimiento,6.0,Europa,2024-06-11
+269,Temperatura,2.0,Oceanía,2024-02-17
+270,Temperatura,85.0,Asia,2024-03-20
+271,Humedad,17.0,Europa,2024-05-19
+272,Temperatura,29.0,Asia,2024-03-11
+273,Luz ,61.0,Oceanía,2024-06-27
+274,Luz ,59.0,Europa,2024-12-27
+275,Luz ,25.0,Oceanía,2024-05-27
+276,Luz ,4.0,África,2024-08-20
+277,Movimiento,66.0,Norteamerica,2024-12-29
+278,Presencia,44.0,África,2024-01-24
+279,Humedad,58.0,Oceanía,2024-06-14
+280,Luz ,39.0,África,2024-04-30
+281,Movimiento,5.0,Asia,2024-01-25
+282,Temperatura,97.0,Norteamerica,2024-08-11
+283,Humedad,73.0,Oceanía,2024-11-14
+284,Luz ,42.0,Europa,2024-09-10
+285,Movimiento,23.0,Sudamerica,2024-06-23
+286,Temperatura,76.0,Norteamerica,2024-09-27
+287,Luz ,35.0,Europa,2024-05-08
+288,Temperatura,35.0,Asia,2024-09-23
+289,Presencia,7.0,Oceanía,2024-11-21
+290,Temperatura,20.0,Oceanía,2024-02-04
+291,Movimiento,4.0,Norteamerica,2024-06-08
+292,Movimiento,76.0,Asia,2024-12-09
+293,Humedad,3.0,Norteamerica,2024-09-08
+294,Luz ,16.0,Oceanía,2024-03-25
+295,Presencia,68.0,Asia,2024-05-07
+296,Presencia,79.0,Europa,2024-01-27
+297,Luz ,72.0,Asia,2024-04-26
+298,Movimiento,2.0,Norteamerica,2024-06-04
+299,Humedad,30.0,Asia,2024-03-30
+300,Movimiento,94.0,África,2024-12-31
+301,Movimiento,6.0,Asia,2024-07-23
+302,Humedad,92.0,Asia,2024-01-13
+303,Humedad,33.0,Europa,2024-09-03
+304,Luz ,28.0,Oceanía,2024-12-22
+305,Presencia,38.0,Oceanía,2024-08-24
+306,Humedad,1.0,Europa,2024-06-15
+307,Humedad,19.0,Asia,2024-08-04
+308,Temperatura,98.0,Asia,2024-12-10
+309,Movimiento,82.0,Asia,2024-04-27
+310,Temperatura,24.0,Oceanía,2024-06-15
+311,Humedad,61.0,Norteamerica,2024-03-18
+312,Temperatura,83.0,África,2024-08-28
+313,Humedad,84.0,Sudamerica,2024-06-20
+314,Presencia,45.0,Oceanía,2024-01-21
+315,Movimiento,60.0,Asia,2024-09-20
+316,Movimiento,80.0,Sudamerica,2024-11-13
+317,Luz ,50.0,Norteamerica,2024-10-05
+318,Humedad,77.0,Asia,2024-04-16
+319,Movimiento,11.0,Norteamerica,2024-11-11
+320,Movimiento,13.0,Asia,2024-07-04
+321,Presencia,44.0,Asia,2024-04-24
+322,Presencia,45.0,Sudamerica,2024-04-25
+323,Humedad,13.0,Europa,2024-01-14
+324,Movimiento,70.0,Oceanía,2024-05-07
+325,Temperatura,46.0,Oceanía,2024-09-24
+326,Humedad,51.0,Sudamerica,2024-08-01
+327,Presencia,65.0,Oceanía,2024-02-23
+328,Humedad,83.0,Oceanía,2024-05-28
+329,Presencia,6.0,Oceanía,2024-12-15
+330,Humedad,58.0,Oceanía,2024-02-01
+331,Movimiento,26.0,Sudamerica,2024-07-14
+332,Presencia,5.0,Norteamerica,2024-07-30
+333,Presencia,71.0,Norteamerica,2024-10-24
+334,Movimiento,2.0,Oceanía,2024-03-14
+335,Presencia,53.0,África,2024-08-13
+336,Presencia,51.0,Asia,2024-09-20
+337,Presencia,81.0,Sudamerica,2024-07-19
+338,Humedad,17.0,Asia,2024-06-20
+339,Humedad,1.0,Oceanía,2024-12-10
+340,Presencia,59.0,Sudamerica,2024-09-15
+341,Presencia,87.0,Norteamerica,2024-08-08
+342,Temperatura,52.0,Norteamerica,2024-11-29
+343,Temperatura,16.0,Europa,2024-11-10
+344,Temperatura,35.0,Asia,2024-11-11
+345,Temperatura,63.0,Norteamerica,2024-01-09
+346,Presencia,43.0,África,2024-08-02
+347,Temperatura,99.0,Norteamerica,2024-11-24
+348,Movimiento,31.0,Norteamerica,2024-02-01
+349,Humedad,99.0,Oceanía,2024-09-17
+350,Movimiento,76.0,Norteamerica,2024-08-14
+351,Humedad,81.0,África,2024-06-14
+352,Movimiento,80.0,África,2024-04-15
+353,Presencia,8.0,África,2024-11-25
+354,Temperatura,55.0,Sudamerica,2024-02-29
+355,Luz ,15.0,Norteamerica,2024-07-18
+356,Temperatura,92.0,Norteamerica,2024-01-02
+357,Temperatura,8.0,África,2024-04-15
+358,Temperatura,22.0,Sudamerica,2024-07-29
+359,Luz ,37.0,Norteamerica,2024-01-12
+360,Movimiento,49.0,África,2024-06-22
+361,Movimiento,24.0,Asia,2024-11-27
+362,Humedad,42.0,Oceanía,2024-04-12
+363,Presencia,61.0,Oceanía,2024-10-17
+364,Movimiento,29.0,Europa,2024-01-13
+365,Humedad,11.0,África,2024-05-04
+366,Temperatura,34.0,Europa,2024-03-21
+367,Presencia,16.0,África,2024-01-16
+368,Presencia,2.0,Sudamerica,2024-04-28
+369,Luz ,15.0,Norteamerica,2024-09-24
+370,Presencia,87.0,África,2024-06-13
+371,Presencia,67.0,Norteamerica,2024-06-16
+372,Movimiento,67.0,Europa,2024-07-25
+373,Movimiento,25.0,Europa,2024-07-02
+374,Temperatura,16.0,Europa,2024-12-09
+375,Luz ,59.0,Europa,2024-02-05
+376,Humedad,33.0,Asia,2024-11-10
+377,Movimiento,71.0,África,2024-04-14
+378,Humedad,57.0,Oceanía,2024-04-06
+379,Presencia,59.0,Sudamerica,2024-01-27
+380,Humedad,70.0,Sudamerica,2024-05-21
+381,Luz ,88.0,Asia,2024-05-03
+382,Luz ,50.0,Oceanía,2024-05-28
+383,Movimiento,62.0,África,2024-10-19
+384,Movimiento,100.0,Asia,2024-12-19
+385,Presencia,27.0,Norteamerica,2024-11-29
+386,Temperatura,21.0,Sudamerica,2024-02-05
+387,Humedad,7.0,Asia,2024-06-08
+388,Presencia,70.0,Sudamerica,2024-03-31
+389,Movimiento,97.0,Sudamerica,2024-09-10
+390,Movimiento,87.0,Oceanía,2024-08-22
+391,Presencia,28.0,Sudamerica,2024-05-26
+392,Presencia,31.0,Norteamerica,2024-08-13
+393,Luz ,97.0,Europa,2024-03-23
+394,Presencia,88.0,Asia,2024-06-02
+395,Luz ,4.0,Asia,2024-02-18
+396,Presencia,50.0,Sudamerica,2024-06-25
+397,Luz ,29.0,Norteamerica,2024-10-14
+398,Presencia,72.0,Norteamerica,2024-08-14
+399,Humedad,61.0,Europa,2024-11-30
+400,Temperatura,2.0,Europa,2024-05-03
+401,Temperatura,49.0,Norteamerica,2024-06-04
+402,Temperatura,60.0,Oceanía,2024-07-06
+403,Luz ,30.0,Oceanía,2024-08-21
+404,Temperatura,62.0,Asia,2024-09-15
+405,Movimiento,90.0,Norteamerica,2024-03-01
+406,Humedad,95.0,Sudamerica,2024-11-19
+407,Humedad,43.0,Norteamerica,2024-08-30
+408,Movimiento,63.0,Oceanía,2024-10-03
+409,Luz ,24.0,Europa,2024-09-29
+410,Presencia,13.0,Oceanía,2024-08-04
+411,Movimiento,42.0,Sudamerica,2024-08-23
+412,Presencia,57.0,Asia,2024-10-31
+413,Humedad,56.0,Europa,2024-01-23
+414,Temperatura,89.0,Oceanía,2024-08-01
+415,Temperatura,47.0,Norteamerica,2024-04-25
+416,Humedad,34.0,Asia,2024-09-20
+417,Luz ,40.0,Europa,2024-09-24
+418,Temperatura,29.0,Europa,2024-10-14
+419,Temperatura,92.0,Oceanía,2024-03-23
+420,Temperatura,90.0,Oceanía,2024-01-22
+421,Humedad,23.0,Europa,2024-10-04
+422,Luz ,98.0,Oceanía,2024-10-19
+423,Luz ,67.0,Norteamerica,2024-04-03
+424,Luz ,86.0,Asia,2024-03-15
+425,Luz ,37.0,Norteamerica,2024-12-23
+426,Humedad,11.0,Norteamerica,2024-05-06
+427,Movimiento,16.0,Norteamerica,2024-01-11
+428,Temperatura,94.0,África,2024-10-28
+429,Movimiento,29.0,Europa,2024-04-25
+430,Humedad,89.0,África,2024-09-26
+431,Humedad,75.0,Oceanía,2024-01-23
+432,Temperatura,57.0,Asia,2024-11-17
+433,Luz ,23.0,Asia,2024-10-19
+434,Presencia,88.0,Sudamerica,2024-10-28
+435,Humedad,10.0,Europa,2024-03-06
+436,Temperatura,90.0,Asia,2024-02-10
+437,Presencia,7.0,Europa,2024-10-08
+438,Presencia,14.0,Sudamerica,2024-03-07
+439,Luz ,14.0,Asia,2024-05-16
+440,Temperatura,86.0,Norteamerica,2024-11-19
+441,Presencia,51.0,Norteamerica,2024-12-31
+442,Humedad,71.0,Europa,2024-05-18
+443,Temperatura,73.0,Sudamerica,2024-02-09
+444,Movimiento,84.0,Oceanía,2024-06-02
+445,Movimiento,20.0,Europa,2024-10-13
+446,Humedad,53.0,Europa,2024-10-06
+447,Temperatura,81.0,Oceanía,2024-01-23
+448,Humedad,32.0,Asia,2024-03-10
+449,Movimiento,41.0,Europa,2024-08-01
+450,Presencia,84.0,Europa,2024-09-11
+451,Presencia,35.0,Asia,2024-03-30
+452,Presencia,29.0,Oceanía,2024-02-22
+453,Temperatura,83.0,Sudamerica,2024-04-23
+454,Temperatura,58.0,Oceanía,2024-05-28
+455,Movimiento,86.0,Sudamerica,2024-08-14
+456,Humedad,34.0,Asia,2024-01-20
+457,Humedad,75.0,África,2024-12-04
+458,Temperatura,29.0,Asia,2024-02-24
+459,Movimiento,16.0,Oceanía,2024-01-14
+460,Movimiento,93.0,Sudamerica,2024-04-22
+461,Humedad,91.0,Norteamerica,2024-04-21
+462,Humedad,42.0,Asia,2024-01-01
+463,Movimiento,66.0,Europa,2024-06-20
+464,Temperatura,4.0,Europa,2024-11-06
+465,Movimiento,51.0,Sudamerica,2024-03-01
+466,Temperatura,48.0,África,2024-04-05
+467,Movimiento,19.0,Europa,2024-01-19
+468,Temperatura,59.0,Oceanía,2024-02-17
+469,Luz ,11.0,África,2024-11-16
+470,Humedad,32.0,Europa,2024-06-17
+471,Luz ,93.0,Oceanía,2024-05-01
+472,Movimiento,18.0,Sudamerica,2024-10-04
+473,Presencia,5.0,Asia,2024-02-05
+474,Presencia,68.0,Norteamerica,2024-06-08
+475,Humedad,27.0,Europa,2024-04-12
+476,Humedad,9.0,Norteamerica,2024-02-04
+477,Humedad,33.0,Oceanía,2024-11-11
+478,Movimiento,51.0,Asia,2024-08-30
+479,Temperatura,22.0,África,2024-12-23
+480,Presencia,7.0,Europa,2024-09-12
+481,Presencia,42.0,África,2024-11-01
+482,Humedad,75.0,Sudamerica,2024-02-11
+483,Presencia,83.0,África,2024-02-29
+484,Luz ,2.0,Sudamerica,2024-03-22
+485,Humedad,71.0,Asia,2024-01-18
+486,Luz ,59.0,Norteamerica,2024-07-05
+487,Presencia,7.0,Oceanía,2024-07-21
+488,Humedad,97.0,Oceanía,2024-06-07
+489,Humedad,34.0,Asia,2024-02-29
+490,Humedad,29.0,Asia,2024-06-16
+491,Humedad,84.0,Sudamerica,2024-08-22
+492,Presencia,24.0,Oceanía,2024-07-11
+493,Temperatura,78.0,Asia,2024-03-11
+494,Presencia,42.0,África,2024-01-18
+495,Presencia,16.0,Sudamerica,2024-11-07
+496,Presencia,74.0,Oceanía,2024-12-09
+497,Temperatura,77.0,Europa,2024-01-26
+498,Movimiento,36.0,Europa,2024-07-02
+499,Humedad,93.0,Asia,2024-12-02
+500,Humedad,84.0,Europa,2024-04-23
+501,Movimiento,14.0,Asia,2024-09-15
+502,Presencia,59.0,Asia,2024-07-10
+503,Movimiento,87.0,Norteamerica,2024-04-02
+504,Presencia,40.0,África,2024-05-10
+505,Movimiento,95.0,Europa,2024-05-25
+506,Presencia,27.0,Asia,2024-01-31
+507,Humedad,96.0,Europa,2024-10-13
+508,Movimiento,11.0,Asia,2024-01-06
+509,Presencia,32.0,Norteamerica,2024-07-10
+510,Temperatura,35.0,Oceanía,2024-03-03
+511,Movimiento,29.0,Europa,2024-04-03
+512,Luz ,98.0,Oceanía,2024-12-11
+513,Luz ,23.0,Asia,2024-12-16
+514,Temperatura,67.0,África,2024-01-19
+515,Humedad,22.0,Asia,2024-03-25
+516,Temperatura,42.0,Norteamerica,2024-06-16
+517,Humedad,100.0,Sudamerica,2024-04-03
+518,Presencia,69.0,Asia,2024-11-11
+519,Presencia,59.0,Norteamerica,2024-10-29
+520,Luz ,23.0,Norteamerica,2024-07-31
+521,Temperatura,28.0,África,2024-08-04
+522,Temperatura,28.0,Sudamerica,2024-05-28
+523,Movimiento,41.0,Asia,2024-09-02
+524,Presencia,94.0,Norteamerica,2024-01-26
+525,Temperatura,2.0,Europa,2024-04-28
+526,Luz ,53.0,Europa,2024-12-05
+527,Movimiento,39.0,Asia,2024-01-24
+528,Luz ,92.0,Europa,2024-02-21
+529,Presencia,50.0,Sudamerica,2024-08-14
+530,Humedad,23.0,Norteamerica,2024-12-07
+531,Movimiento,64.0,Oceanía,2024-11-16
+532,Luz ,82.0,Oceanía,2024-11-01
+533,Presencia,74.0,África,2024-05-21
+534,Humedad,73.0,África,2024-01-13
+535,Temperatura,73.0,Asia,2024-05-30
+536,Temperatura,84.0,Asia,2024-02-26
+537,Presencia,74.0,Europa,2024-01-24
+538,Luz ,12.0,Asia,2024-10-01
+539,Movimiento,8.0,Norteamerica,2024-06-14
+540,Humedad,79.0,África,2024-11-29
+541,Movimiento,11.0,Sudamerica,2024-01-16
+542,Temperatura,94.0,Oceanía,2024-01-03
+543,Luz ,8.0,Asia,2024-05-02
+544,Presencia,30.0,Oceanía,2024-10-30
+545,Temperatura,37.0,África,2024-10-02
+546,Humedad,54.0,Sudamerica,2024-03-06
+547,Temperatura,33.0,Europa,2024-04-13
+548,Luz ,81.0,Europa,2024-06-02
+549,Humedad,14.0,Sudamerica,2024-10-09
+550,Presencia,26.0,Oceanía,2024-06-21
+551,Presencia,9.0,Sudamerica,2024-03-13
+552,Movimiento,65.0,África,2024-12-01
+553,Movimiento,36.0,Europa,2024-01-28
+554,Movimiento,16.0,Norteamerica,2024-07-14
+555,Movimiento,64.0,África,2024-05-07
+556,Movimiento,10.0,Asia,2024-04-20
+557,Humedad,53.0,Asia,2024-01-05
+558,Movimiento,81.0,Europa,2024-10-27
+559,Luz ,86.0,Norteamerica,2024-10-29
+560,Movimiento,4.0,Sudamerica,2024-07-20
+561,Luz ,64.0,Europa,2024-04-21
+562,Humedad,1.0,África,2024-04-09
+563,Temperatura,66.0,Europa,2024-11-30
+564,Humedad,87.0,África,2024-12-10
+565,Presencia,98.0,Europa,2024-03-03
+566,Humedad,59.0,Asia,2024-05-19
+567,Movimiento,44.0,Oceanía,2024-01-20
+568,Humedad,65.0,Norteamerica,2024-10-10
+569,Humedad,4.0,África,2024-08-17
+570,Luz ,41.0,Sudamerica,2024-07-16
+571,Presencia,52.0,Norteamerica,2024-11-22
+572,Presencia,88.0,Europa,2024-11-18
+573,Humedad,55.0,Norteamerica,2024-04-27
+574,Presencia,90.0,África,2024-03-13
+575,Humedad,17.0,Europa,2024-08-05
+576,Humedad,3.0,Norteamerica,2024-12-21
+577,Movimiento,75.0,Oceanía,2024-09-14
+578,Movimiento,94.0,Europa,2024-05-25
+579,Presencia,99.0,Sudamerica,2024-05-01
+580,Luz ,56.0,Europa,2024-10-27
+581,Humedad,97.0,Sudamerica,2024-02-23
+582,Temperatura,55.0,Europa,2024-12-20
+583,Presencia,92.0,Norteamerica,2024-01-11
+584,Temperatura,21.0,Europa,2024-12-01
+585,Movimiento,65.0,África,2024-01-12
+586,Luz ,71.0,Oceanía,2024-06-27
+587,Temperatura,32.0,Sudamerica,2024-01-13
+588,Temperatura,65.0,Sudamerica,2024-05-01
+589,Humedad,40.0,Europa,2024-11-06
+590,Luz ,3.0,Asia,2024-06-13
+591,Movimiento,12.0,África,2024-11-20
+592,Movimiento,13.0,Norteamerica,2024-01-13
+593,Temperatura,94.0,Asia,2024-07-11
+594,Temperatura,80.0,Sudamerica,2024-12-10
+595,Movimiento,96.0,Oceanía,2024-03-06
+596,Luz ,82.0,Europa,2024-10-10
+597,Humedad,92.0,Asia,2024-06-10
+598,Presencia,97.0,Oceanía,2024-06-14
+599,Presencia,15.0,Sudamerica,2024-03-18
+600,Movimiento,80.0,Oceanía,2024-09-07
+601,Humedad,70.0,Europa,2024-08-03
+602,Presencia,9.0,Sudamerica,2024-10-22
+603,Presencia,70.0,Norteamerica,2024-08-03
+604,Presencia,27.0,África,2024-12-16
+605,Movimiento,93.0,Oceanía,2024-08-27
+606,Temperatura,58.0,África,2024-08-19
+607,Humedad,70.0,Norteamerica,2024-08-21
+608,Temperatura,49.0,Europa,2024-10-12
+609,Temperatura,11.0,Asia,2024-07-22
+610,Humedad,31.0,Norteamerica,2024-07-20
+611,Temperatura,93.0,Oceanía,2024-04-30
+612,Movimiento,26.0,Oceanía,2024-11-25
+613,Luz ,20.0,Sudamerica,2024-04-03
+614,Temperatura,55.0,África,2024-07-26
+615,Movimiento,64.0,Asia,2024-10-10
+616,Luz ,80.0,Sudamerica,2024-07-09
+617,Humedad,65.0,Sudamerica,2024-09-14
+618,Luz ,91.0,África,2024-09-18
+619,Luz ,11.0,Oceanía,2024-05-17
+620,Presencia,63.0,África,2024-06-24
+621,Movimiento,35.0,Asia,2024-02-14
+622,Movimiento,97.0,África,2024-04-15
+623,Luz ,96.0,Norteamerica,2024-11-23
+624,Luz ,81.0,África,2024-09-03
+625,Presencia,95.0,Asia,2024-10-31
+626,Presencia,71.0,Oceanía,2024-12-11
+627,Humedad,14.0,Europa,2024-08-14
+628,Luz ,56.0,Norteamerica,2024-12-04
+629,Humedad,94.0,Oceanía,2024-05-09
+630,Movimiento,79.0,Europa,2024-06-24
+631,Temperatura,34.0,Norteamerica,2024-08-06
+632,Presencia,39.0,Oceanía,2024-12-01
+633,Movimiento,8.0,África,2024-01-14
+634,Humedad,66.0,Sudamerica,2024-12-16
+635,Movimiento,30.0,Asia,2024-09-06
+636,Temperatura,77.0,Oceanía,2024-10-06
+637,Humedad,62.0,Norteamerica,2024-03-30
+638,Luz ,79.0,Sudamerica,2024-03-31
+639,Presencia,54.0,África,2024-09-21
+640,Temperatura,39.0,Asia,2024-09-13
+641,Movimiento,86.0,Europa,2024-01-04
+642,Movimiento,64.0,Sudamerica,2024-01-26
+643,Movimiento,6.0,Europa,2024-06-06
+644,Presencia,22.0,Oceanía,2024-12-13
+645,Humedad,7.0,Norteamerica,2024-10-22
+646,Presencia,53.0,Europa,2024-05-15
+647,Humedad,100.0,Asia,2024-01-20
+648,Luz ,68.0,Asia,2024-12-03
+649,Movimiento,71.0,Asia,2024-02-02
+650,Luz ,89.0,Europa,2024-08-05
+651,Presencia,54.0,Sudamerica,2024-02-28
+652,Movimiento,12.0,África,2024-08-28
+653,Temperatura,18.0,Norteamerica,2024-12-18
+654,Movimiento,5.0,Europa,2024-06-20
+655,Movimiento,14.0,Norteamerica,2024-05-06
+656,Luz ,55.0,Europa,2024-01-27
+657,Movimiento,3.0,Sudamerica,2024-01-06
+658,Humedad,32.0,Europa,2024-02-28
+659,Luz ,86.0,África,2024-04-20
+660,Presencia,44.0,Sudamerica,2024-04-07
+661,Movimiento,6.0,Oceanía,2024-09-03
+662,Movimiento,88.0,Europa,2024-02-09
+663,Luz ,21.0,Oceanía,2024-04-11
+664,Presencia,46.0,Oceanía,2024-02-09
+665,Humedad,5.0,Europa,2024-05-29
+666,Presencia,4.0,Sudamerica,2024-01-06
+667,Luz ,31.0,Asia,2024-03-18
+668,Humedad,34.0,Asia,2024-01-25
+669,Temperatura,43.0,Europa,2024-01-11
+670,Presencia,16.0,Norteamerica,2024-08-29
+671,Humedad,55.0,Europa,2024-02-13
+672,Humedad,94.0,Oceanía,2024-06-25
+673,Temperatura,30.0,Oceanía,2024-09-09
+674,Presencia,19.0,Asia,2024-03-25
+675,Humedad,65.0,África,2024-12-07
+676,Movimiento,5.0,Norteamerica,2024-01-14
+677,Luz ,47.0,Europa,2024-04-26
+678,Luz ,68.0,África,2024-09-12
+679,Movimiento,45.0,Norteamerica,2024-09-28
+680,Luz ,52.0,África,2024-02-04
+681,Luz ,71.0,Asia,2024-01-30
+682,Temperatura,41.0,Oceanía,2024-06-21
+683,Luz ,78.0,Asia,2024-03-26
+684,Presencia,32.0,Norteamerica,2024-03-10
+685,Luz ,28.0,Asia,2024-09-27
+686,Presencia,64.0,Europa,2024-08-07
+687,Humedad,19.0,Asia,2024-04-25
+688,Presencia,39.0,Sudamerica,2024-10-11
+689,Presencia,77.0,Oceanía,2024-06-14
+690,Temperatura,11.0,Asia,2024-07-21
+691,Movimiento,43.0,Oceanía,2024-09-27
+692,Luz ,17.0,Norteamerica,2024-08-20
+693,Temperatura,40.0,África,2024-08-29
+694,Presencia,21.0,África,2024-05-18
+695,Luz ,81.0,Norteamerica,2024-07-31
+696,Presencia,24.0,Norteamerica,2024-09-30
+697,Luz ,9.0,Europa,2024-04-17
+698,Temperatura,8.0,Asia,2024-06-27
+699,Presencia,21.0,África,2024-05-30
+700,Temperatura,33.0,Europa,2024-08-03
+701,Humedad,58.0,Norteamerica,2024-06-21
+702,Humedad,88.0,África,2024-01-23
+703,Humedad,15.0,Norteamerica,2024-12-14
+704,Humedad,50.0,Europa,2024-12-26
+705,Temperatura,55.0,Oceanía,2024-08-30
+706,Temperatura,9.0,Europa,2024-10-01
+707,Luz ,38.0,África,2024-04-15
+708,Temperatura,53.0,Sudamerica,2024-08-01
+709,Temperatura,75.0,Oceanía,2024-01-08
+710,Humedad,67.0,África,2024-02-07
+711,Presencia,17.0,Oceanía,2024-10-13
+712,Humedad,95.0,Norteamerica,2024-01-26
+713,Movimiento,51.0,Sudamerica,2024-04-09
+714,Luz ,67.0,África,2024-03-03
+715,Movimiento,44.0,África,2024-03-29
+716,Temperatura,99.0,África,2024-03-21
+717,Humedad,70.0,África,2024-04-13
+718,Temperatura,28.0,África,2024-04-06
+719,Humedad,30.0,Asia,2024-12-31
+720,Movimiento,9.0,Sudamerica,2024-01-16
+721,Temperatura,60.0,Sudamerica,2024-09-25
+722,Temperatura,11.0,África,2024-09-21
+723,Humedad,56.0,Europa,2024-06-20
+724,Presencia,36.0,Oceanía,2024-02-05
+725,Movimiento,70.0,Oceanía,2024-01-14
+726,Movimiento,65.0,Europa,2024-07-22
+727,Luz ,45.0,África,2024-02-06
+728,Movimiento,34.0,África,2024-05-23
+729,Humedad,78.0,África,2024-03-23
+730,Humedad,37.0,Asia,2024-06-26
+731,Presencia,32.0,Asia,2024-08-01
+732,Temperatura,11.0,Norteamerica,2024-01-04
+733,Humedad,96.0,Norteamerica,2024-04-14
+734,Temperatura,45.0,Oceanía,2024-04-10
+735,Movimiento,76.0,Europa,2024-10-22
+736,Movimiento,10.0,Norteamerica,2024-05-02
+737,Luz ,62.0,Sudamerica,2024-11-22
+738,Temperatura,94.0,Sudamerica,2024-11-14
+739,Presencia,64.0,Asia,2024-04-11
+740,Temperatura,76.0,Oceanía,2024-01-13
+741,Movimiento,87.0,África,2024-06-19
+742,Luz ,11.0,Europa,2024-03-01
+743,Movimiento,9.0,África,2024-10-27
+744,Humedad,15.0,Oceanía,2024-03-01
+745,Presencia,23.0,Norteamerica,2024-05-24
+746,Presencia,96.0,Norteamerica,2024-11-03
+747,Presencia,44.0,Europa,2024-02-06
+748,Presencia,23.0,Asia,2024-10-13
+749,Temperatura,61.0,Sudamerica,2024-10-15
+750,Movimiento,33.0,Oceanía,2024-09-27
+751,Movimiento,68.0,África,2024-07-20
+752,Presencia,94.0,Europa,2024-09-20
+753,Temperatura,39.0,Sudamerica,2024-06-09
+754,Movimiento,83.0,Asia,2024-12-03
+755,Temperatura,86.0,África,2024-08-26
+756,Movimiento,49.0,África,2024-12-02
+757,Humedad,99.0,Asia,2024-09-08
+758,Presencia,34.0,Oceanía,2024-12-16
+759,Presencia,36.0,Europa,2024-06-14
+760,Luz ,87.0,Oceanía,2024-04-16
+761,Temperatura,91.0,Oceanía,2024-04-23
+762,Presencia,44.0,Europa,2024-08-26
+763,Humedad,45.0,Europa,2024-09-09
+764,Movimiento,16.0,Oceanía,2024-06-20
+765,Presencia,71.0,Asia,2024-09-05
+766,Luz ,48.0,Oceanía,2024-05-11
+767,Movimiento,75.0,Oceanía,2024-02-18
+768,Movimiento,48.0,Asia,2024-01-10
+769,Presencia,92.0,Asia,2024-07-21
+770,Presencia,73.0,Norteamerica,2024-02-26
+771,Temperatura,66.0,Asia,2024-07-25
+772,Luz ,6.0,Norteamerica,2024-07-23
+773,Movimiento,3.0,Norteamerica,2024-02-02
+774,Movimiento,59.0,Europa,2024-05-06
+775,Humedad,32.0,Oceanía,2024-12-26
+776,Presencia,19.0,Asia,2024-03-23
+777,Humedad,11.0,Sudamerica,2024-04-13
+778,Presencia,12.0,Sudamerica,2024-11-25
+779,Luz ,76.0,África,2024-10-26
+780,Presencia,9.0,Sudamerica,2024-10-16
+781,Temperatura,91.0,Europa,2024-07-07
+782,Presencia,14.0,Oceanía,2024-05-23
+783,Presencia,29.0,Oceanía,2024-11-24
+784,Humedad,40.0,Europa,2024-12-29
+785,Luz ,37.0,Asia,2024-09-11
+786,Movimiento,71.0,Europa,2024-01-21
+787,Luz ,63.0,Sudamerica,2024-08-15
+788,Presencia,45.0,Oceanía,2024-08-09
+789,Temperatura,84.0,Oceanía,2024-04-13
+790,Humedad,78.0,Asia,2024-04-01
+791,Movimiento,25.0,Asia,2024-09-14
+792,Temperatura,93.0,Asia,2024-04-02
+793,Presencia,99.0,Oceanía,2024-12-20
+794,Temperatura,3.0,Sudamerica,2024-09-06
+795,Humedad,28.0,Sudamerica,2024-06-11
+796,Humedad,7.0,Sudamerica,2024-04-13
+797,Presencia,54.0,Sudamerica,2024-08-21
+798,Humedad,69.0,Norteamerica,2024-05-19
+799,Presencia,38.0,Asia,2024-07-26
+800,Luz ,15.0,Asia,2024-06-26
+801,Presencia,57.0,África,2024-09-19
+802,Humedad,21.0,Oceanía,2024-05-06
+803,Presencia,82.0,Oceanía,2024-04-29
+804,Humedad,9.0,Sudamerica,2024-01-28
+805,Luz ,34.0,Europa,2024-08-06
+806,Movimiento,8.0,África,2024-05-17
+807,Movimiento,14.0,Norteamerica,2024-08-31
+808,Humedad,12.0,Europa,2024-08-04
+809,Movimiento,9.0,Asia,2024-12-09
+810,Temperatura,90.0,África,2024-04-26
+811,Presencia,24.0,Oceanía,2024-06-21
+812,Movimiento,61.0,África,2024-07-10
+813,Humedad,78.0,Norteamerica,2024-07-10
+814,Humedad,23.0,Norteamerica,2024-06-15
+815,Luz ,61.0,Europa,2024-08-26
+816,Luz ,88.0,Europa,2024-08-28
+817,Temperatura,96.0,Oceanía,2024-09-23
+818,Temperatura,50.0,Asia,2024-02-04
+819,Luz ,28.0,Sudamerica,2024-11-09
+820,Luz ,54.0,Norteamerica,2024-06-10
+821,Humedad,46.0,África,2024-07-30
+822,Luz ,85.0,África,2024-07-02
+823,Movimiento,43.0,Norteamerica,2024-03-31
+824,Temperatura,29.0,Oceanía,2024-02-14
+825,Humedad,2.0,Oceanía,2024-05-19
+826,Luz ,33.0,Sudamerica,2024-02-21
+827,Presencia,50.0,África,2024-01-26
+828,Presencia,39.0,Norteamerica,2024-07-31
+829,Presencia,57.0,Sudamerica,2024-11-10
+830,Temperatura,58.0,África,2024-04-11
+831,Movimiento,9.0,Sudamerica,2024-05-05
+832,Luz ,37.0,Europa,2024-05-10
+833,Presencia,28.0,Sudamerica,2024-02-24
+834,Movimiento,59.0,Asia,2024-03-01
+835,Luz ,21.0,Asia,2024-12-29
+836,Movimiento,66.0,Asia,2024-10-22
+837,Humedad,71.0,África,2024-10-09
+838,Presencia,89.0,Oceanía,2024-05-23
+839,Temperatura,4.0,Sudamerica,2024-09-26
+840,Luz ,65.0,Asia,2024-02-29
+841,Humedad,8.0,Europa,2024-12-20
+842,Movimiento,85.0,Asia,2024-03-30
+843,Presencia,90.0,Norteamerica,2024-06-18
+844,Presencia,26.0,África,2024-12-22
+845,Movimiento,40.0,Asia,2024-02-23
+846,Movimiento,26.0,Norteamerica,2024-04-24
+847,Presencia,23.0,Asia,2024-01-07
+848,Luz ,94.0,Sudamerica,2024-11-11
+849,Luz ,71.0,Europa,2024-08-07
+850,Movimiento,50.0,África,2024-03-13
+851,Luz ,37.0,Oceanía,2024-05-23
+852,Temperatura,48.0,África,2024-10-29
+853,Temperatura,86.0,África,2024-02-13
+854,Temperatura,38.0,África,2024-12-08
+855,Movimiento,15.0,Europa,2024-05-22
+856,Humedad,34.0,África,2024-08-24
+857,Movimiento,67.0,África,2024-03-17
+858,Luz ,66.0,Norteamerica,2024-06-17
+859,Luz ,48.0,Europa,2024-03-15
+860,Humedad,99.0,Norteamerica,2024-11-29
+861,Temperatura,96.0,Oceanía,2024-12-07
+862,Presencia,56.0,Asia,2024-01-10
+863,Luz ,88.0,Norteamerica,2024-04-13
+864,Luz ,6.0,África,2024-12-05
+865,Luz ,32.0,Sudamerica,2024-01-12
+866,Presencia,62.0,África,2024-09-14
+867,Luz ,1.0,Sudamerica,2024-03-22
+868,Humedad,40.0,Europa,2024-04-01
+869,Movimiento,47.0,Oceanía,2024-05-22
+870,Presencia,99.0,Europa,2024-10-25
+871,Humedad,65.0,Oceanía,2024-05-02
+872,Temperatura,78.0,Sudamerica,2024-05-16
+873,Humedad,33.0,Sudamerica,2024-06-12
+874,Luz ,58.0,África,2024-03-31
+875,Luz ,3.0,África,2024-07-19
+876,Temperatura,10.0,Norteamerica,2024-04-25
+877,Luz ,89.0,Norteamerica,2024-04-17
+878,Presencia,29.0,África,2024-09-27
+879,Humedad,75.0,Norteamerica,2024-02-13
+880,Movimiento,4.0,Europa,2024-12-29
+881,Luz ,40.0,Sudamerica,2024-06-27
+882,Luz ,99.0,Norteamerica,2024-10-11
+883,Humedad,83.0,Sudamerica,2024-04-10
+884,Temperatura,8.0,África,2024-06-12
+885,Presencia,20.0,Europa,2024-06-03
+886,Movimiento,41.0,Norteamerica,2024-05-24
+887,Presencia,98.0,África,2024-01-15
+888,Movimiento,17.0,África,2024-07-24
+889,Humedad,22.0,Norteamerica,2024-08-18
+890,Movimiento,85.0,Europa,2024-06-05
+891,Temperatura,45.0,Sudamerica,2024-04-03
+892,Presencia,36.0,Norteamerica,2024-02-23
+893,Humedad,83.0,Norteamerica,2024-12-10
+894,Humedad,99.0,Asia,2024-09-26
+895,Luz ,8.0,Sudamerica,2024-04-21
+896,Movimiento,71.0,África,2024-08-29
+897,Movimiento,73.0,África,2024-04-09
+898,Presencia,93.0,África,2024-01-27
+899,Luz ,16.0,Asia,2024-06-16
+900,Temperatura,96.0,Europa,2024-05-04
+901,Luz ,45.0,Sudamerica,2024-08-07
+902,Luz ,86.0,Asia,2024-10-02
+903,Humedad,64.0,Europa,2024-10-06
+904,Movimiento,11.0,Norteamerica,2024-05-11
+905,Temperatura,81.0,Sudamerica,2024-07-27
+906,Luz ,33.0,África,2024-05-19
+907,Movimiento,10.0,Norteamerica,2024-10-21
+908,Presencia,27.0,Sudamerica,2024-01-13
+909,Movimiento,28.0,Europa,2024-06-02
+910,Temperatura,93.0,Sudamerica,2024-12-06
+911,Movimiento,45.0,Europa,2024-01-13
+912,Presencia,68.0,Oceanía,2024-07-22
+913,Presencia,72.0,Sudamerica,2024-01-27
+914,Humedad,68.0,Sudamerica,2024-01-20
+915,Temperatura,44.0,Sudamerica,2024-04-16
+916,Movimiento,100.0,Europa,2024-11-26
+917,Humedad,74.0,Oceanía,2024-08-17
+918,Presencia,14.0,Europa,2024-10-04
+919,Movimiento,4.0,África,2024-01-18
+920,Humedad,66.0,Oceanía,2024-03-07
+921,Movimiento,78.0,África,2024-01-12
+922,Temperatura,81.0,África,2024-08-31
+923,Temperatura,7.0,Norteamerica,2024-02-20
+924,Luz ,29.0,África,2024-08-11
+925,Luz ,97.0,Norteamerica,2024-04-09
+926,Temperatura,73.0,Norteamerica,2024-10-30
+927,Humedad,59.0,Europa,2024-09-21
+928,Presencia,4.0,Norteamerica,2024-04-24
+929,Luz ,66.0,Asia,2024-04-02
+930,Movimiento,83.0,Europa,2024-03-24
+931,Presencia,18.0,Asia,2024-11-09
+932,Presencia,30.0,Sudamerica,2024-09-13
+933,Humedad,60.0,Norteamerica,2024-07-31
+934,Movimiento,15.0,Europa,2024-09-12
+935,Movimiento,28.0,Norteamerica,2024-03-16
+936,Presencia,27.0,Sudamerica,2024-07-11
+937,Temperatura,92.0,Europa,2024-02-07
+938,Movimiento,76.0,Oceanía,2024-06-01
+939,Luz ,7.0,Norteamerica,2024-10-11
+940,Temperatura,13.0,Norteamerica,2024-02-07
+941,Temperatura,74.0,Norteamerica,2024-05-03
+942,Presencia,27.0,Europa,2024-03-29
+943,Humedad,91.0,África,2024-10-24
+944,Temperatura,25.0,Oceanía,2024-05-06
+945,Presencia,19.0,Oceanía,2024-09-02
+946,Humedad,54.0,Oceanía,2024-04-16
+947,Temperatura,48.0,África,2024-05-15
+948,Temperatura,85.0,Europa,2024-12-15
+949,Movimiento,18.0,Sudamerica,2024-10-09
+950,Presencia,39.0,Norteamerica,2024-08-04
+951,Presencia,35.0,África,2024-04-18
+952,Luz ,67.0,Europa,2024-05-02
+953,Temperatura,51.0,Sudamerica,2024-03-25
+954,Humedad,11.0,Europa,2024-11-22
+955,Movimiento,72.0,Oceanía,2024-03-11
+956,Movimiento,21.0,Norteamerica,2024-02-09
+957,Movimiento,84.0,Europa,2024-02-15
+958,Movimiento,38.0,Norteamerica,2024-12-29
+959,Movimiento,54.0,Oceanía,2024-09-11
+960,Humedad,83.0,Oceanía,2024-12-26
+961,Luz ,77.0,Asia,2024-10-02
+962,Temperatura,41.0,África,2024-12-12
+963,Luz ,64.0,Asia,2024-08-17
+964,Presencia,42.0,Asia,2024-09-14
+965,Presencia,53.0,Norteamerica,2024-03-31
+966,Presencia,76.0,Sudamerica,2024-07-23
+967,Luz ,22.0,Oceanía,2024-06-07
+968,Temperatura,52.0,África,2024-05-21
+969,Humedad,85.0,Asia,2024-03-22
+970,Presencia,93.0,Sudamerica,2024-06-01
+971,Presencia,48.0,Oceanía,2024-05-21
+972,Luz ,62.0,África,2024-04-08
+973,Luz ,68.0,Europa,2024-10-24
+974,Humedad,60.0,Sudamerica,2024-05-09
+975,Presencia,63.0,Oceanía,2024-01-04
+976,Presencia,100.0,Asia,2024-01-16
+977,Temperatura,93.0,Norteamerica,2024-01-02
+978,Temperatura,73.0,Norteamerica,2024-02-21
+979,Temperatura,31.0,Norteamerica,2024-01-19
+980,Luz ,93.0,África,2024-06-17
+981,Humedad,67.0,Norteamerica,2024-09-24
+982,Movimiento,49.0,Asia,2024-01-29
+983,Movimiento,6.0,Sudamerica,2024-07-07
+984,Movimiento,33.0,Europa,2024-01-03
+985,Temperatura,37.0,Norteamerica,2024-12-31
+986,Presencia,86.0,África,2024-12-24
+987,Humedad,9.0,Norteamerica,2024-01-25
+988,Presencia,82.0,África,2024-04-12
+989,Presencia,69.0,Norteamerica,2024-11-16
+990,Presencia,81.0,Norteamerica,2024-07-31
+991,Presencia,55.0,Europa,2024-02-14
+992,Movimiento,25.0,África,2024-01-15
+993,Movimiento,8.0,África,2024-02-01
+994,Luz ,79.0,Europa,2024-11-19
+995,Humedad,29.0,África,2024-07-17
+996,Humedad,23.0,Norteamerica,2024-08-26
+997,Temperatura,9.0,Europa,2024-12-14
+998,Presencia,76.0,Sudamerica,2024-10-01
+999,Presencia,26.0,Sudamerica,2024-03-27
+1000,Movimiento,1.0,Norteamerica,2024-12-27

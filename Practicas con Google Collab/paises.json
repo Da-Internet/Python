@@ -1,0 +1,43 @@
+{
+    "paisesAmerica":[
+        {"pais":"Argentina","capital":"Buenos Aires"},
+        {"pais":"Bolivia","capital":"La Paz"},  
+        {"pais":"Chile","capital":"Santiago"},
+        {"pais":"Colombia","capital":"Bogotá"}, 
+        {"pais":"Venezuela","capital":"Caracas"},
+        {"pais":"Perú","capital":"Lima"}
+    ],
+    "paisesAsia":[
+        {"pais":"Japón","capital":"Tokio"},  
+        {"pais":"Corea del Sur","capital":"Seúl"}, 
+        {"pais":"República Popular China","capital":"Pekín"},
+        {"pais":"India","capital":"Nueva Delhi"},
+        {"pais":"Irán (Reino Islámico)","capital":"Teherán"},
+        {"pais":"Arabia Saudita","capital":"Riyad"}
+    ],
+    "paisesEurope":[
+        {"pais":"Francia","capital":"París"},
+        {"pias":"Alemania","capital":"Berlín"}, 
+        {"pais":"España","capital":"Madrid"},
+        {"pais":"Italia","capital":"Roma"},
+        {"pais":"Portugal","capital":"Lisboa"}, 
+        {"pais":"Reino Unido","capital":"Londres"}
+    ],
+    "paisesAfricanos":[
+        {"pais":"Egipto","capital":"El Cairo"},
+        {"pais":"Marrocos","capital":"Rabat"}, 
+        {"pais":"Sudáfrica","capital":"Pretoria"},
+        {"pais":"Zimbabwe","capital":"Harare"},
+        {"pais":"Nigeria","capital":"Abuya"},
+        {"pais":"Marruecos","capital":"Casa Blanca"}
+    ],
+    "paisesOceania":[
+        {"pais":"Australia","capital":"Canberra"},
+        {"pais":"Nueva Zelanda","capital":"Wellington"}, 
+        {"pais":"Islandia","capital":"Reykjavik"},  
+        {"pais":"Islas Salomón","capital":"Honiara"},
+        {"pais":"Papúa Nueva Guinea","capital":"Port Moresby"},
+        {"pais":"Vanuatu","capital":"Port Vila"}
+    ]
+    
+}
